@@ -2,6 +2,10 @@
 
 Add Your Name Here
 
+### Please add your GitHub Account Name
+
+Add Your Name Here
+
 ### Date
 
 28 September 2023
@@ -10,7 +14,7 @@ Add Your Name Here
 
 * Use the database from today's class: `campus_DB.sqlite3` 
     + (Note: the build file for this database has been included with this activity)
-* Record your queries from today's Code-along in your activity's deliverable
+* Record your queries from today's in-class *Code-Along* for your activity's deliverable
 
 #### Groups
 

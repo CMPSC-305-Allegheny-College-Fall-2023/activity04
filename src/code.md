@@ -40,13 +40,13 @@ TODO
 TODO
 ```
 
-3. What are the salaries of instructors who worked during the Spring?
+3. What are the average salaries of instructors who worked during the Spring?
 
 ``` SQL
 TODO
 ```
 
-4. What are the salaries of instructors who worked during the Fall?
+4. What are the average salaries of instructors who worked during the Fall?
 
 ``` SQL
 TODO
